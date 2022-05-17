@@ -1,0 +1,236 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.family
+{
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    text-align: center;
+    padding: 200px;
+    color: white;
+    margin-bottom:30px ;
+}
+.family p
+{
+    font-size: 230%;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+.family h1
+{
+    font-size: 400%;
+    font-weight: 400;
+}
+
+.family button
+{
+    padding: 15px 30px;
+    margin-top: 30px ;
+}
+.family .btn1
+{
+    background-color: #8e7754;
+    color: white;
+    border:none;
+    font-size: 16px;
+
+
+}.family .btn2
+{
+    background-color: transparent;
+    color: white;
+    border: 2px white solid;
+    border-radius: 3px;
+    font-size: 16px;
+}
+.who
+{
+    margin-bottom:30px ;
+
+}
+
+.who .photo
+{
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.who .photo img
+{
+    width: 90%;
+}
+.who .descripe
+{
+    font-family: 'Alegreya Sans', sans-serif;
+    text-align: left;
+    float: left;
+    width: 50%;
+    padding-top: 60px;
+}
+.clr 
+{
+    clear: both;
+}
+.location
+{
+    background-color: #f8f8f8;
+}
+
+.location .loc-descripe
+{
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-top: 150px;
+    font-family: 'Alegreya Sans', sans-serif;
+
+
+}
+.location .loc-photo
+{
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+.location .loc-photo img
+{
+    width: 90%;
+}
+
+ .our-baking
+{
+    text-align: center;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+.baking-type
+{
+    padding: 50px 0px;
+}
+ 
+ .baking-type .one
+{
+    width: 33.333%;
+    float: left;
+    text-align: center;
+
+}
+ .baking-type .two
+{
+    width: 33.333%;
+    float: left;
+    text-align: center;
+
+
+}
+ .baking-type .three
+{
+    width: 33.333%;
+    float: left;
+    text-align: center;
+
+}
+.baking-type .one img
+{
+    width: 80%;
+}
+.baking-type .two img
+{
+    width: 80%;
+
+}
+.baking-type .three img
+{
+    width: 80%;
+}
+.baking-type p
+{
+    padding: 15px;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+.baking-type h1
+{
+    padding: 15px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+.contact
+{
+    padding: 60px;
+    background-color: #f8f8f8;
+
+}
+.contact .contact-information
+{
+    float: left;
+    width: 50%;
+    height: 50%;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+
+.contact .map
+{
+    float: left;
+    width: 50%;
+    height: 50%;
+
+    text-align: center;
+
+}
+.contact .map img
+{
+    width: 93%;
+
+}
+.about
+{
+    background-color: #403d38;
+    padding: 50px;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+.about .about-us
+{
+    float: left;
+    width: 25%;
+}
+.about .why
+{
+    float: left;
+    width: 25%;
+
+}
+.about .hours
+{
+    float: left;
+    width: 25%;
+
+}
+.about .details
+{
+    float: left;
+    width: 25%;
+}
+.footer
+{
+    background-color: #1b1b1b;
+    text-align: center;
+    padding: 50px;
+    color: #777;
+}
+
+
+
+
+
+
+
+
+
+
+
